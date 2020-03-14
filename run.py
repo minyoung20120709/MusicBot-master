@@ -433,9 +433,5 @@ def main():
     print()
     log.info("All done.")
 
-access_token = os.environ["Bot_Token"]
-client.run(access_token)
-
-
 if __name__ == '__main__':
     main()
