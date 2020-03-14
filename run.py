@@ -433,9 +433,5 @@ def main():
     print()
     log.info("All done.")
 
-<<<<<<< HEAD
-=======
-
->>>>>>> parent of db804ef... Update run.py
 if __name__ == '__main__':
     main()
